@@ -1,0 +1,131 @@
+body
+{
+    background-color: rgb(218, 218, 218);
+}
+header
+{
+    font-size: 32px;
+    background-color: rgb(90, 90, 90);
+    text-align: center;
+    color: azure;
+    text-shadow: 2px 2px 4px black;
+   
+}
+
+.project
+{
+    background-color:  rgb(49, 49, 49);
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 6px black;
+    
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+
+
+    
+    
+}
+
+.uimg
+{
+  float: left;
+  clear: both;
+  box-shadow: 3px 3px 6px black;
+}
+
+
+.uimg2
+{
+    float: right;
+    position: relative;
+    top: -300px;
+
+    box-shadow: 3px 3px 6px black;
+}
+
+.img1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
+.bio
+{
+    font-size: 24px;
+    margin-bottom: 15px;
+    padding: 50px;
+    height: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: rgb(189, 189, 189);
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 3px 3px 6px black;
+   
+}
+.hbio
+{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.pbio
+{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.ph
+{
+    font-size: 24px;
+    margin-bottom: 15px;
+    padding: 50px;
+    height: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: rgb(189, 189, 189);
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 3px 3px 6px black;
+
+}
+
+.ph3
+{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.pph
+{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.Contact
+{
+    
+    margin-bottom: 15px;
+    padding: 50px;
+    height: 225px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: rgb(189, 189, 189);
+    text-shadow: 1px 1px 2px black;
+    text-align: center;
+    list-style: inside;
+    box-shadow: 3px 3px 6px black;
+    
+}
+
+a
+{
+    color: white;
+}
